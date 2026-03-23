@@ -54,8 +54,7 @@ C:.
 |           sql.png
 |           vscode.png
 |
-\---video
-        demo.mp4
+
 This was gotten by using the " tree /F /A" command in command prompt.
 
 3. Navigation Structure
