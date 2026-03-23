@@ -28,6 +28,7 @@ C:.
 |   experience.html
 |   index.html
 |   projects.html
+|   prototype design.pdf
 |   README.txt
 |   resume.pdf
 |   script.js
@@ -36,24 +37,24 @@ C:.
 +---audio
 |       intro.mp4
 |
-+---images
-|   |   favicon.ico
-|   |   github.png
-|   |   icon.jpeg
-|   |
-|   \---skills
-|           c.png
-|           css.png
-|           git.png
-|           html.png
-|           java.png
-|           JavaScript.png
-|           jetbrains.png
-|           linux.png
-|           python.png
-|           sql.png
-|           vscode.png
-|
+\---images
+    |   favicon.ico
+    |   github.png
+    |   icon.jpeg
+    |
+    \---skills
+            c.png
+            css.png
+            git.png
+            html.png
+            java.png
+            JavaScript.png
+            jetbrains.png
+            linux.png
+            python.png
+            sql.png
+            vscode.png
+
 
 This was gotten by using the " tree /F /A" command in command prompt.
 
